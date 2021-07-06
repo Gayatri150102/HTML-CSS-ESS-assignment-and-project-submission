@@ -1,0 +1,14 @@
+/* //EXTERNAL CSS FOR PARA-3// */
+.parent
+{
+    color: salmon;
+    background-color: springgreen;
+    font-size: 40px;
+}
+
+.child
+{
+    color: turquoise;
+    background-color: brown;
+    font-size: 35px;
+}
